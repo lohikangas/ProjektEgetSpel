@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 869342403
+    locked: 0
+  - name: Bakom Midground
+    uniqueID: 12651205
+    locked: 0
+  - name: Midground
+    uniqueID: 3058345043
+    locked: 0
+  - name: Character
+    uniqueID: 3859071365
+    locked: 0
+  - name: Foreground
+    uniqueID: 2727278149
+    locked: 0
+  - name: UI
+    uniqueID: 2093395759
+    locked: 0
+  - name: Chain
+    uniqueID: 751209227
+    locked: 0
